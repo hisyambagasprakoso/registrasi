@@ -1,20 +1,20 @@
 # Pre-Config & Start Application (My Technical Test)
 ## Pre-Config
-git
-vscode
-mysql v15.1
-java v11
-springboot v2.3.4.RELEASE
-maven v4.0.0
-lombok
-simplecaptcha v1.2.2
-spring web
-spring data jpa
-spring security
-java mail sender
-spring boot dev tools
-jquery v3.6.4
-bootstrap v4.3.1
+- git
+- vscode
+- mysql v15.1
+- java v11
+- springboot v2.3.4.RELEASE
+- maven v4.0.0
+- lombok
+- simplecaptcha v1.2.2
+- spring web
+- spring data jpa
+- spring security
+- java mail sender
+- spring boot dev tools
+- jquery v3.6.4
+- bootstrap v4.3.1
 
 ## Start Application
 1. Open XAMPP, click start on Apache and MySql
